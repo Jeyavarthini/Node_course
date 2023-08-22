@@ -1,0 +1,13 @@
+const fs=require('fs')
+// let filecontent=fs.readFileSync('f1.txt')
+// console.log('Msg '+filecontent)
+// fs.writeFileSync('f2.txt','Hi dear')
+// fs.appendFileSync('f3.txt',' This is updated')
+// fs.unlinkSync('f2.txt')
+// fs.mkdirSync('Mydirectory')
+// let folder='C:\\Users\\IT LAB-II\\Desktop\\JV\\node js course\\Node Module System\\Mydirectory'
+// let foldercontent=fs.readdirSync('folder')
+// console.log('Files '+foldercontent)
+// let a=fs.existsSync('Mydirectory')
+// console.log(a)
+fs.rmdirSync('Mydirectory')
