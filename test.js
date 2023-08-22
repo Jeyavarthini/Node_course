@@ -1,4 +1,4 @@
-const calculator=require('./calculator')
+const calculator=require('scalercalc')
 // console.log('Helllo')
 // function greet(){
 //     console.log('Hi')
